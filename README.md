@@ -1,2 +1,8 @@
-# Medtoureasy
-Analysis of left handed patients lifespan
+# Medtoureasy-Analysis of Age discrepancy between left handed and right handed patients lifespan
+Introduction:
+Some notable left-handed individuals include Barack Obama, Bill Gates, Oprah Winfrey, Babe Ruth, and Marie Curie. An intriguing study from 1991 claimed that left-handed people tend to pass away roughly nine years earlier than their right-handed counterparts. Is this assertion substantiated?
+
+In this data analysis notebook, we embark on a journey to unravel this fascinating phenomenon. Our objective is to employ age distribution data to ascertain whether the observed disparity in average age at death can be attributed solely to shifts in the prevalence of left-handedness over time. Leveraging the power of pandas and Bayesian statistics, we endeavor to assess the probability of attaining a specific age at death based on one's handedness, ultimately challenging the stereotype of early mortality among left-handed individuals.To put this into testing, A National Geographic survey was conducted in 1986 which 
+resulted in over a million responses that included age, sex, and hand preference for throwing and writing. Researchers Avery Gilbert and Charles Wysocki analyzed this data and noticed that rates of left-handedness were around 13% for people younger than 40 but decreased with age to about 5% by the age of 80.They concluded based on analysis of a 
+subgroup of people who throw left-handed but write right-handed that this age-dependence 
+was primarily due to changing social acceptability . Let's explore this phenomenon using age distribution data to see if we can reproduce a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers.
