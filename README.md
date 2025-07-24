@@ -1,4 +1,5 @@
 ✋ Left-Handed People Analysis – Life Expectancy Estimation
+
 📌 Project Overview
 Some notable left-handed individuals include Barack Obama, Bill Gates, Oprah Winfrey, Babe Ruth, and Marie Curie. An intriguing study from 1991 claimed that left-handed people tend to pass away roughly nine years earlier than their right-handed counterparts. Is this assertion substantiated?
 This analytical project investigates whether left-handed people die earlier than right-handed people, based on historical data, age-wise death distributions, and reported handedness rates. The project uses Bayesian probability, exploratory data analysis, and visualizations to estimate age distributions at death for left- and right-handed individuals.It’s a blend of statistical modeling and hypothesis testing using real-world datasets, making it both insightful and evidence-driven.
